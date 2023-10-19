@@ -125,7 +125,9 @@ In the future, we plan to...
 Implement generative AI to alert end users of better food sustainability standards.
 Create a chatbot to alert the inventory manager for the best course of action for an item that is going to expire.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap]
+![roadmap](https://github.com/SoumyajitD/SustainX/assets/62047686/dfb6864f-efe6-4396-a2b9-922980116e33)
+
 
 
 
